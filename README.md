@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[my links](https://keyoxide.org/1E574F16D4E3A16AACEFC389E069660E3E4892CF)
 
-[Keyoxide](https://keyoxide.org/1E574F16D4E3A16AACEFC389E069660E3E4892CF)
 
 **BTC**: _bc1qevf5xr9vym8glapf6vczre0umkcgzvx4ynljt9_
 
