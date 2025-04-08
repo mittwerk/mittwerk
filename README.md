@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-https://keyoxide.org/1E574F16D4E3A16AACEFC389E069660E3E4892CF
+[my keyoxide proof](https://keyoxide.org/1E574F16D4E3A16AACEFC389E069660E3E4892CF)
 
 [![My Skills](https://skillicons.dev/icons?i=aws,androidstudio,bash,bevy,cmake,debian,devto,firebase,fediverse,figma,git,github,gradle,godot,graphql,gtk,heroku,idea,java,kotlin,ktor,linkedin,linux,md,mastodon,maven,neovim,nginx,npm,opencv,postgres,qt,regex,rust,sqlite,stackoverflow,supabase,svg,tensorflow,vala,wasm,rider&perline=3)](https://skillicons.dev)
 
