@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,androidstudio,bash,cmake,debian,firebase,figma,git,gradle,graphql,idea,java,kotlin,ktor,linkedin,linux,md,maven,opencv,regex,rust,sqlite,stackoverflow,supabase,tensorflow" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,firebase,gradle,kotlin,linkedin,linux,debian,rust,stackoverflow,tensorflow,supabase,graphql" />
   </a>
 </p>
 
