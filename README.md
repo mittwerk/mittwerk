@@ -16,6 +16,14 @@ Here are some ideas to get you started:
 -->
 https://keyoxide.org/1E574F16D4E3A16AACEFC389E069660E3E4892CF
 
+[![My Skills](https://skillicons.dev/icons?i=aws,androidstudio,bash,bevy,cmake,debian,devto,firebase,fediverse,figma,git,github,gradle,godot,graphql,gtk,heroku,idea,java,kotlin,ktor,linkedin,linux,md,mastodon,maven,neovim,nginx,npm,opencv,postgres,qt,regex,rust,sqlite,stackoverflow,supabase,svg,tensorflow,vala,wasm,rider&perline=3)](https://skillicons.dev)
+
+![Android](https://img.shields.io/badge/Android-05150C?style=flat-square&logo=android)
+
+<img src="https://github-readme-stats.vercel.app/api?username=mittwerk&theme=gruvbox&show_icons=true&hide_border=true&count_private=true" alt="mittwerk's GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mittwerk&theme=gruvbox&show_icons=true&hide_border=true&layout=compact" alt="mittwerk's GitHub Stats" />
+
 You can really support me by sending a few coins
 
 → **BTC**: _bc1qevf5xr9vym8glapf6vczre0umkcgzvx4ynljt9_
