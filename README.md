@@ -15,13 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [my keyoxide proof](https://keyoxide.org/1E574F16D4E3A16AACEFC389E069660E3E4892CF)
-
-<!-- - [![My Skills](https://skillicons.dev/icons?i=aws,androidstudio,bash,bevy,cmake,debian,discord,devto,firebase,fediverse,figma,git,github,gradle,godot,graphql,gtk,heroku,idea,java,kotlin,ktor,linkedin,linux,md,mastodon,maven,neovim,nginx,npm,opencv,postgres,qt,regex,rust,sqlite,stackoverflow,supabase,svg,tensorflow,vala,wasm,rider&perline=20)](https://skillicons.dev)
--->
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=androidstudio,firebase,gradle,kotlin,linkedin,linux,debian,rust,stackoverflow,tensorflow,supabase,graphql" />
+        <img src="https://design.keyoxide.org/keyoxide/logos/keyoxide_blue.circle.1x.png">
   </a>
 </p>
 
