@@ -19,7 +19,12 @@ Here are some ideas to get you started:
 <!-- - [![My Skills](https://skillicons.dev/icons?i=aws,androidstudio,bash,bevy,cmake,debian,discord,devto,firebase,fediverse,figma,git,github,gradle,godot,graphql,gtk,heroku,idea,java,kotlin,ktor,linkedin,linux,md,mastodon,maven,neovim,nginx,npm,opencv,postgres,qt,regex,rust,sqlite,stackoverflow,supabase,svg,tensorflow,vala,wasm,rider&perline=20)](https://skillicons.dev)
 -->
 
- [![My Skills](https://skillicons.dev/icons?i=aws,androidstudio,bash,cmake,debian,firebase,figma,git,gradle,graphql,idea,java,kotlin,ktor,linkedin,linux,md,maven,opencv,regex,rust,sqlite,stackoverflow,supabase,tensorflow,&perline=25)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,androidstudio,bash,cmake,debian,firebase,figma,git,gradle,graphql,idea,java,kotlin,ktor,linkedin,linux,md,maven,opencv,regex,rust,sqlite,stackoverflow,supabase,tensorflow" />
+  </a>
+</p>
+
  
 ![Android](https://img.shields.io/badge/Android-05150C?style=flat-square&logo=android)
 
